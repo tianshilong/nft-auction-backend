@@ -1,0 +1,21 @@
+# 环境变量
+.env
+
+# 数据库文件
+data.db
+
+# 编译输出
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+EOF
+1
+2
+3
+abis
