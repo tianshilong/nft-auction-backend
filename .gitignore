@@ -6,6 +6,7 @@ data.db
 
 # 编译输出
 out/
+contracts/
 
 # IDE
 .vscode/
